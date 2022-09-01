@@ -23,7 +23,7 @@ Launch Docker
  
 2. Run Django
 
-```bash
+   ```bash
     $ python manage.py runserver
     ```
     
@@ -33,7 +33,7 @@ Launch Docker
     ```
 
 4. Launch Vue
-```bash
+   ```bash
     $ npm run serve
-    ```
+   ```
 
