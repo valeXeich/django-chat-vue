@@ -13,7 +13,7 @@ Functionality
 3. Live chat
 4. Notifications
 
-Launch Docker
+Launch
 
 1. Migrations
 
